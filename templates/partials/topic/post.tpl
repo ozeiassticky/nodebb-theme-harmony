@@ -70,7 +70,7 @@
 		</div>
 
 		<div class="content mt-2 text-break" component="post/content" itemprop="text">
-			{posts.content}
+			{posts.textContent}
 		</div>
 	</div>
 </div>
